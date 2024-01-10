@@ -1,0 +1,29 @@
+{
+  "name": "discord-botalien",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "xxmarciano",
+  "license": "MIT",
+  "dependencies": {
+    "@devraelfreeze/discordjs-pagination": "^2.7.6",
+    "@discord-player/extractor": "^4.4.1",
+    "@discordjs/opus": "^0.9.0",
+    "@distube/ytdl-core": "^4.11.17",
+    "better-sqlite3": "^8.6.0",
+    "discord-player": "^6.6.2",
+    "discord-voip": "^0.1.2",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "quick.db": "^9.1.7",
+    "ytdl-core": "^4.11.5"
+  },
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "commands": "node ./deploy-commands.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

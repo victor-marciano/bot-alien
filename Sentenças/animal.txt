@@ -1,0 +1,193 @@
+iguana
+cachorro
+urso polar
+urso
+coelho
+boto cor de rosa
+golfinho
+baleia
+orca
+guaxinim
+funkeiro
+vaca
+boi
+galo
+galinha
+abutre
+urubu
+gavião
+falcão
+pombinha da paz
+porco
+leitão
+rinoceronte
+dinossauro
+pterodáctil
+alga marinha
+água-viva
+polvo
+lula (fazuelle)
+mastodonte
+elefante
+mamute
+girino
+borboleta
+mariposa
+chimpanzé
+golira
+cavalo
+pônei
+unicórnio
+avestruz
+ema
+pardal
+ave de rapina
+garsa
+lobo guará
+lobisomem
+gado
+ovelha
+cabritinha
+bode
+marreco
+pato
+ganso
+chinchila
+perereca
+sapo
+rã
+protozoário
+fungo
+planta carnívora
+girafa
+besouro
+formiga
+pavão
+gato
+hamster
+ratazana
+rato
+castor
+coala
+bicho-preguiça
+panda
+dragão
+diabo da tasmânia
+leão
+tigre
+dente de sabre
+veado
+gazela
+alce
+touro
+fênix
+arara
+arara azul
+mico leão dourado
+jacaré
+crocodilo
+NPC
+lombriga
+larva de árvore
+lagarta
+lagartixa
+um casulo misterioso
+minhoca
+hipopotamo
+cegonha
+andorinha
+abelha
+vespa
+zangão
+abelha rainha
+salamandra
+flamingo
+foca
+morsa
+peixe-boi
+peixe palhaço
+camaleão
+dragão de komodo
+camelo
+dromedário
+babuíno
+peixe espada
+tubarão martelo
+tubarão branco
+anêmona
+cavalo marinho
+anta
+albatroz
+viúva negra
+tarântula
+baiacu
+bagre
+bicho-pau
+bezerro
+bem-te-vi
+barata que não voa
+barata voadora
+tartaruga
+jabuti
+cágado
+carneiro
+canguru
+caracol
+caramujo
+lesma
+calopsita
+cacatua
+cisne
+cervo
+cigarra
+coruja
+corvo
+cupim
+doninha
+escorpião
+estrela-do-mar
+enguia elétrica
+furão
+gaivota
+gambá
+hidra
+homosapiens
+jumento
+asno
+égua
+lêmure
+lacraia
+louva-deus
+lhama
+morcego
+vampiro
+marimbondo
+ouriço
+pantera
+periquito
+peru
+porquinho-da-índia
+quero-quero
+pica-pau
+fusão de quero-quero com pica-pau, o lendário QUERO PICA
+rena
+raposa
+siri
+carangueijo
+ostra
+tamanduá
+tucano
+tatu
+tatu bola
+tatu caminha dentro
+vaga-lume (vou caçar mais de um milhão)
+verme
+zebra
+zobomafoo
+esponja do mar
+guepardo
+leopardo
+onça pintada
+onça pintuda
+planária
+ameba
